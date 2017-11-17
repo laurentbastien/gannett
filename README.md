@@ -1,4 +1,4 @@
-A map that shows where Gannett stories actually originate. 
+*A map that shows where Gannett stories actually originate.*
 
 ![alt text](https://i.imgur.com/m008xxV.png)
 
